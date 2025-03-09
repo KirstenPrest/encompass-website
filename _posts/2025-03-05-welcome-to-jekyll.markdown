@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Encompass!"
 date:   2025-03-05 21:34:59 +0000
 categories: jekyll update
 ---
