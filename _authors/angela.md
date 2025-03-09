@@ -1,4 +1,5 @@
 ---
+order: 2
 username: angela
 name: Professor Angela Harden
 image: '/images/kirsten.png'

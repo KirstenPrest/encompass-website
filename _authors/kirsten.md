@@ -1,4 +1,5 @@
 ---
+order: 1
 username: kirsten
 name: Kirsten Prest
 image: '/images/kirsten.png'
