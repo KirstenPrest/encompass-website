@@ -1,13 +1,25 @@
 ---
 layout: page
-title: About Us
-description: We believe that great ideas are born from collaboration, and we are dedicated to fostering a culture of openness and creativity. Every member of our team brings a unique perspective, and together, we are constantly learning, growing, and evolving.
+title: About Encompass
+description: Adapting and testing a  participatory group programme for parents/carers of children with complex neurodisability
 permalink: /about/
 image: '/images/17.jpg'
 image_caption: The beginning of a new wonderful day
 ---
 
-At the heart of our journey lies a deep commitment to innovation, creativity, and community. We are a collective of designers, thinkers, and storytellers who believe in the power of ideas to shape the future. Our mission is to create a space where imagination meets reality, where technology and design come together to craft experiences that inspire and connect. We approach every project with curiosity and passion, striving to push boundaries and challenge the status quo.
+The "Encompass" programme aims to support children and young people with complex neurodisability, using cerebral palsy (CP) as an exemplar condition. CP is the most common childhood physical disability globally. Children with CP and their families have multiple, complex healthcare needs. Research shows that parents/carers of children with CP require a large amount of support and information, particularly just after the diagnosis, however this is often lacking. They also benefit from forming support networks with other caregivers.
+
+The Ubuntu model of interventions was seen as a potential solution, as parents/carers gain knowledge about caring for their child, while forming support networks.
+
+“Ubuntu (previously: Getting to know Cerebral Palsy)” is a community-based participatory caregiver programme that has been developed and successfully tested in resource limited settings such as Uganda, Ghana and Bangladesh, and has been implemented in low and low- and middle-income countries globally. The group programme is comprehensive in that it aims to promote inclusion and participation for the child with CP in the community, to maximise the child’s health and development, to empower caregivers through information sharing and peer support, to address stigma, and to promote the human rights of children with disabilities. The groups are co-facilitated by a health professional and an 'expert parent' with lived experience.
+
+Various forms of the "Ubuntu" programme have been tested in many low- and middle- income countries, where it was found to improve parents’ and children’s quality of life. 
+
+> It has not yet been adapted and tested in a high-income country, such as the UK. 
+
+
+
+
 
 > The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
 
