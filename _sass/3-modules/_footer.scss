@@ -59,6 +59,8 @@
     line-height: 1;
     font-weight: 700;
     letter-spacing: -1px;
+    align-items: center;
+    column-gap: 24px;
   }
 
   .logo-footer__image,
@@ -107,6 +109,32 @@
     }
   }
 }
+
+.funders {
+  display: flex;
+  flex-wrap: wrap; /* Wrap on small screens */
+  align-items: center;
+  justify-content: center; /* Center-align across width */
+  gap: 24px; /* More breathing room */
+  margin-top: 2rem;
+}
+
+.funders div {
+  flex: 0 1 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.funder__image {
+  max-height: 80px;
+  max-width: 200px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
 
 /* Social */
 .widget-social {

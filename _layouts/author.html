@@ -10,20 +10,27 @@ layout: default
     <div class="author__content">
 
       <div class="author__image">
-        <img class="lazy" data-src="{{ page.image }}" alt="{{ page.name }}">
+        <img class="lazy" data-src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.name }}">
       </div>
 
       <h1 class="author__name">{{ page.name }}</h1>
 
       <div class="author__info">
+        {% if page.title %}
+        <span class="author__location">
+          {{ page.title }}
+        </span>
+        {% endif %}
         {% if page.location %}
         <span class="author__location">
-          from {{ page.location }}
-        </span> •
-        {% endif %}
-        <span class="post-count">
-          {{ post_count.size }}{% if post_count.size < 2 %}Post{% else %} posts{% endif %}
+           • {{ page.location }}
         </span>
+        {% endif %}
+        {% if page.department %}
+        <span class="author__location">
+          • {{ page.department }}
+        </span>
+        {% endif %}
       </div>
 
       <div class="author__description">{{ content | markdownify  }}</div>

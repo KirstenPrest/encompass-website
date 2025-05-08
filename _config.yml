@@ -26,6 +26,14 @@ collections:
   authors:
     output: true
     permalink: /:name
+  researchers:
+    output: true
+    permalink: /:name
+  advisors:
+    output: true
+    permalink: /:name
+  publications:
+    output: false
 
 # Pages Path
 defaults:
@@ -45,7 +53,12 @@ defaults:
       layout: "post"
   - scope:
       path: ""
-      type: "authors"
+      type: "advisors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "researchers"
     values:
       layout: "author"
 

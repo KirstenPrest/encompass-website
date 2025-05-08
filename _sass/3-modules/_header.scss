@@ -27,6 +27,9 @@
   line-height: 1;
   font-weight: 700;
   letter-spacing: -1px;
+  display: flex;
+  align-items: center;
+  column-gap: 24px;
 }
 
 .logo__image,
