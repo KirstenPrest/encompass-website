@@ -3,7 +3,9 @@ order: 3
 username: professor_michelle_heys
 name: Professor Michelle Heys
 image: '/images/authors/professor-michelle-heys.png'
-location: London
+location: University College London
+title: Professor of Global Child Health
+department: Great Ormond Street Institute for Child Health
 website:
 facebook:
 twitter:
