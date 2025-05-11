@@ -11,10 +11,16 @@
       {% endif %}
 
       {% if post.image %}
-      <a href="{{ post.url | relative_url }}" class="article__image" aria-hidden="true" tabindex="-1">
-        <img class="lazy" data-src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+      {% if post.link %}
+      <a href="{{ post.link }}" class="article__image" aria-hidden="true" tabindex="-1">
+        {% else %}
+        <a href="{{ post.url | relative_url }}" class="article__image" aria-hidden="true" tabindex="-1">
+          {% endif %}
+          <img class="lazy" data-src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+        </a>
       </a>
-      {% endif %}
+        {% endif %}
+
     </div>
 
     <div class="article__content">
@@ -31,7 +37,11 @@
       </div>
 
       <h2 class="article__title">
+        {% if post.link %}
+        <a href="{{ post.link }}">{{ post.title }}</a>
+        {% else %}
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        {% endif %}
       </h2>
 
       <p class="article__excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 250 }}{% endif %}</p>
