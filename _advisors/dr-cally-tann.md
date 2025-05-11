@@ -5,7 +5,7 @@ name: Professor Cally Tann
 image: '/images/advisors/Dr-Cally-Tann.png'
 location: London School of Hygiene and Tropical Medicine
 title: Neonatologist and Associate Professor
-department: Nuffield Department of Primary Care Health Sciences, University of Oxford
+department: Department of Infectious Disease Epidemiology and International Health, Faculty of Epidemiology and Population Health
 ---
 
 Cally is a South African-born, British-trained neonatologist, an Associate Professor at the London School of Hygiene and Tropical Medicine and Honorary Principal Scientist at the MRC/UVRI & LSHTM Uganda Research Unit in Entebbe. Her research work focuses on global neonatal health and early childhood outcomes and interventions. She has a particular interest in perinatal brain health, neurodevelopmental outcomes, and early intervention for children with developmental disabilities, particularly in Africa. 
