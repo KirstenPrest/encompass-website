@@ -30,7 +30,8 @@ image: '/images/01.jpg'
   <div class="container">
     <div class="section__inner">
       <div class="row">
-        {% for publication in site.publications %}
+        {% assign sorted_publications = site.publications | sort: "order" %}
+        {% for publication in sorted_publications %}
         <div class="col col-4 col-d-6 col-t-12">
           {% include publication.html %}
         </div>

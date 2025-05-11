@@ -5,6 +5,7 @@ description: Encompass is the name of a co-adapted participatory group programme
 permalink: /about/
 image: '/images/logo.png'
 image_caption: Encompass means to include comprehensively, to hold, to surround, and the embedded word 'compass' makes one think of navigation. 
+toc: true
 ---
 
 The "Encompass" programme aims to support families of children and young people with complex neurodisability who have diagnoses like cerebral palsy (CP).  CP is the most common childhood physical disability globally. Children with CP and their families have multiple, complex healthcare needs. Research shows that parents/carers of children with CP require a large amount of support and information, particularly just after the diagnosis, however this is often lacking. They also benefit from forming support networks with other caregivers.
