@@ -30,8 +30,8 @@ cta_button:
 # Hero Settings
 hero:
   enable: true
-  hero_title: Supporting Parents, Empowering Families
-  hero_description: We’re working with parents, health professionals, and researchers to co-adapt the Baby Ubuntu programme for families of children with complex neurodisability in East London. Together, we aim to build knowledge, confidence, and connection - so families feel more supported, more informed, and less alone.
+  hero_title: Supporting Families of Children with Complex Neurodisability
+  hero_description: We’re working with parents, health professionals, and researchers to co-adapt and pilot test the "Baby Ubuntu" programme for families of children with complex neurodisability (such as cerebral palsy) in East London, United Kingdom. This is the first time "Baby Ubuntu" has been adapted for a high-income setting. Our programme is called "Encompass" which is a 10-module participatory group programme facilitated by a healthcare professionals and parents with lived experience. "Encompass" aims to support parents, caregivers and families in navigating the journey of caring for a child with complex neurodisability. 
 
 hero_researchers:
   enable: true
