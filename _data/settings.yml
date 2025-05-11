@@ -66,6 +66,8 @@ mailchimp:
 # Social Links
 social:
 - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://x.com/kirstprestot"}
+- {icon: "fa-brands fa-bluesky", name: "BlueSky", link: "https://bsky.app/profile/kirstenprest.bsky.social"}
+- {icon: "fa-brands fa-linkedin-in", name: "LinkedIn", link: "https://www.linkedin.com/in/kirsten-prest-55bb7492/"}
 
 # Funders Links
 funders:
