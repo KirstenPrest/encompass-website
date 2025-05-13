@@ -13,7 +13,8 @@
 
       <div class="row grid">
       {% if site.publications.size > 0 %}
-        {% for publication in site.publications %}
+        {% assign sorted_publications = site.publications | sort: "order" %}
+        {% for publication in sorted_publications %}
           {% include publication.html class="col col-4 col-d-6 col-t-12 animate grid__post" %}
         {% endfor %}
       {% endif %}
