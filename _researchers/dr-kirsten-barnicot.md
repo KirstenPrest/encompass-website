@@ -4,7 +4,7 @@ username: dr_kirsten_barnicot
 name: Dr Kirsten Barnicot
 image: '/images/authors/dr-kirsten-barnicot.png'
 location: City, St Georges University of London
-title: Lecturer and Programme Director
+title: Reader and Programme Director
 department: School of Health and Medical Sciences
 website:
 facebook:
@@ -16,7 +16,7 @@ youtube:
 tiktok:
 ---
 
-Kirsten is a Lecturer in Mental Health Services Research and the Programme Director for the MRes in Clinical Research at City, St Georges University of London. As a psychologist with a special interest in the prevention and treatment of inter-generational mental health difficulties, her research has particularly focussed on the experiences of people diagnosed with personality disorder who may be survivors of complex trauma, and on parent-infant interventions in the perinatal period. 
+Kirsten is a Reader in Mental Health Services Research and the Programme Director for the MRes in Clinical Research at City, St Georges University of London. As a psychologist with a special interest in the prevention and treatment of inter-generational mental health difficulties, her research has particularly focussed on the experiences of people diagnosed with personality disorder who may be survivors of complex trauma, and on parent-infant interventions in the perinatal period. 
 
 <br />
 
