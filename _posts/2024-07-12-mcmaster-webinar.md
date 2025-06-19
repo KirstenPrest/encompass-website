@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How stories shaped every aspect of our mixed methods study
-description: Evidence-based Healthcare Lecture Series for the Qualitative Research Methods module
-date: 2024-07-12 15:01:35 +0300
+title: 'Moving from Baby Ubuntu to Encompass' McMaster University webinar  
+description: In this webinar, experts from UK and Uganda and parents with lived experiences discussed co-adapting a group programme for caregivers of children with complex neurodisability from low-resource to high-income settings. 
+date: 2025-05-23 15:01:35 +0300
 author: kirsten_prest
-link: 'https://podcasts.ox.ac.uk/how-stories-shaped-every-aspect-our-mixed-methods-study '
-image: '/images/posts/qrm-lecture.png'
+link: 'https://www.youtube.com/watch?v=00GFxBgMGmM&ab_channel=McMasterEquity-BasedCo-CreationCentre '
+image: '/images/posts/mcmaster-webinar.png'
 toc: true
 ---
