@@ -5,6 +5,6 @@ description: In this webinar, experts from UK and Uganda and parents with lived 
 date: 2025-05-23 15:01:35 +0300
 author: kirsten_prest
 link: 'https://www.youtube.com/watch?v=00GFxBgMGmM&ab_channel=McMasterEquity-BasedCo-CreationCentre '
-image: '/images/posts/mcmaster-webinar.png'
+image: '/images/posts/mcmaster-webinar.jpeg'
 toc: true
 ---
