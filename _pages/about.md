@@ -8,6 +8,8 @@ image_caption: Encompass means to include comprehensively, to hold, to surround,
 toc: true
 ---
 
+## Background:
+
 The "Encompass" programme aims to support families of children and young people with complex neurodisability who have diagnoses like cerebral palsy (CP).  CP is the most common childhood physical disability globally. Children with CP and their families have multiple, complex healthcare needs. Research shows that parents/carers of children with CP require a large amount of support and information, particularly just after the diagnosis, however this is often lacking. They also benefit from forming support networks with other caregivers.
 
 We [reviewed](https://www.paediatricsandchildhealthjournal.co.uk/article/S1751-7222(20)30022-6/abstract) potential low-cost programmes that support parents/carers of children with CP. The [Ubuntu model of care](https://www.ubuntu-hub.org/) was seen as a potential solution, as parents/carers gain knowledge and skills about caring for their child, while also forming peer support networks.
