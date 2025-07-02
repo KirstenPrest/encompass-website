@@ -3,7 +3,7 @@ layout: post
 title: A Big Step- Travelling to Germany for the EACD Conference
 description: In this powerful blog post, Alea Jannath, one of our Encompass parent partners shares her experience of travelling to Heidelberg, Germany for the 2025 European Academy for Childhood-onset Disability conference
 date: 2025-07-02 15:01:35 +0300
-author: kirsten_prest
+author: alea_jannath
 image: '/images/posts/eacd1.jpeg'
 toc: true
 ---
@@ -16,15 +16,9 @@ I'm heading to attend the European Academy of Childhood-onset Disability (EACD) 
 
 It’s a milestone I’ve looked forward to, but getting here wasn’t easy. This is the first time I’ve left Khadijah, and the emotions are real. Anyone who’s a parent or carer will understand that letting go even briefly is hard enough. But when your child has complex needs, it’s more than just emotional. It’s physical, and deeply personal.
 
-![Woman]({{site.baseurl}}/images/posts/eacd2.jpeg)
-*Example*
-
 Making sure her care is in trusted hands while I’m away has been stressful. My mind keeps looping: Will they understand her routines? Will she feel safe without me? Will they remember the little things her cues, her preferences, the invisible details only a parent or carer truly knows?
 
 But I also know that this step matters. For me, for her, for the work I do and in many ways, for families like ours. Representing our lived experience and professional expertise in international spaces like EACD helps ensure that voices like ours are part of the bigger conversation on childhood disability.
-
-![Woman]({{site.baseurl}}/images/posts/eacd3.jpeg)
-*Example*
 
 So here I am deep breath taken, passport ready. I'm choosing to carry both the pride and the worry. Growth rarely happens without a little discomfort. And Khadijah, in her own amazing way, gives me the strength to do hard things.
 
@@ -37,9 +31,6 @@ A big step forward with courage in one hand and love in the other.
 > My heart is always with her, no matter where I go.
 
 I’m going not just for myself, but for families like ours. For professionals and carers who walk the tightrope between personal experience and advocacy. For the chance to learn, grow, and speak up for children with disabilities in spaces where decisions are made and futures are shaped.
-
-![Woman]({{site.baseurl}}/images/posts/eacd5.jpeg)
-*Example*
 
 > EACD in Heidelberg isn’t just a conference
 it’s a place where meaningful change can start. And I’m proud (and nervous, and hopeful) to be a part of it.
@@ -55,8 +46,17 @@ Here’s to growth, even when it’s hard.
 Here’s to showing up.
 Here’s to Heidelberg.
 
+![Woman]({{site.baseurl}}/images/posts/eacd2.jpeg)
+*Alea Jannath and Keely Thomas, Encompass Parent Partners arriving in Heidelberg, Germany*
+
+![Woman]({{site.baseurl}}/images/posts/eacd3.jpeg)
+*Keely Thomas, Alea Jannath and Kirsten Prest at the conference*
+
+![Woman]({{site.baseurl}}/images/posts/eacd5.jpeg)
+*Meeting Elizabeth Chambers, a parent partner in research from CanChild in Canada*
+
 ![Woman]({{site.baseurl}}/images/posts/eacd7.jpg)
-*Example*
+*Alea and Keely presenting at the conference*
 
 ## Back to Reality — And Back to Khadijah
 
