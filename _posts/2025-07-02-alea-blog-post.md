@@ -34,7 +34,7 @@ But as exciting as this is, my heart feels heavy too. It’s the first time I’
 
 A big step forward with courage in one hand and love in the other.
 
-> My heart is always with her, no matter where I go. ❤️
+> My heart is always with her, no matter where I go.
 
 I’m going not just for myself, but for families like ours. For professionals and carers who walk the tightrope between personal experience and advocacy. For the chance to learn, grow, and speak up for children with disabilities in spaces where decisions are made and futures are shaped.
 
