@@ -3,7 +3,7 @@ layout: post
 title: A Big Step- Travelling to Germany for the EACD Conference
 description: In this powerful blog post, Alea Jannath, one of our Encompass parent partners shares her experience of travelling to Heidelberg, Germany for the 2025 European Academy for Childhood-onset Disability conference
 date: 2025-07-02 15:01:35 +0300
-author: alea-jannath
+author: kirsten_prest
 image: '/images/posts/eacd1.jpeg'
 toc: true
 ---
