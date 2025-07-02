@@ -5,7 +5,7 @@ description: Strengthening global north-south collaborations in supporting careg
 date: 2023-03-18 15:01:35 +0300
 author: kirsten_prest
 image: '/images/posts/uganda-1.png'
-toc: true
+toc: false
 ---
 
 > You are welcome here
