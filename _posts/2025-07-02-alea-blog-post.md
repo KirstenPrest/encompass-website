@@ -5,7 +5,7 @@ description: In this powerful blog post, Alea Jannath, one of our Encompass pare
 date: 2025-07-02 15:01:35 +0300
 author: alea_jannath
 image: '/images/posts/eacd1.jpeg'
-toc: true
+toc: false
 ---
 
 ## On my way
