@@ -28,7 +28,7 @@ Then it was our turn to speak. I must admit, it was a bit of a blur. I was so ne
 
 And my children and husband survived without me. 😄
 
-![Woman]({{site.baseurl}}/images/posts/eacd8.jpeg)
+![Woman]({{site.baseurl}}/images/posts/eacd8.jpg)
 *Keely Thomas and Alea Jannath, Encompass Parent Partners presenting at the conference in Heidelberg, Germany*
 
 ![Woman]({{site.baseurl}}/images/posts/eacd9.jpeg)
