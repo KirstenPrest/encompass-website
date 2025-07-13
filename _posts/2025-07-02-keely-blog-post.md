@@ -8,7 +8,9 @@ image: '/images/posts/eacd2.jpeg'
 toc: false
 ---
 
-When this conference was first mentioned, it sounded amazing, and I was so grateful for the opportunity. However, I didn’t quite know what to expect. It was something far out of my comfort zone. Don’t get me wrong—I love talking about my experience as a parent of a child with cerebral palsy, among other diagnoses. But standing in front of people—not just ordinary people, but specialists in their fields, researchers, professors, doctors, physios, OTs, and other parents with experience—was more than a bit scary. 
+> When this conference was first mentioned, it sounded amazing, and I was so grateful for the opportunity. However, I didn’t quite know what to expect. 
+
+It was something far out of my comfort zone. Don’t get me wrong—I love talking about my experience as a parent of a child with cerebral palsy, among other diagnoses. But standing in front of people—not just ordinary people, but specialists in their fields, researchers, professors, doctors, physios, OTs, and other parents with experience—was more than a bit scary. 
 
 Even scarier was the thought that I might not have made it there, as a week before, my son was admitted to the hospital after having cluster seizures. He has a diagnosis of epilepsy, but this type of seizure was a first. Thankfully, it turned out to be just his seizures evolving, not an underlying infection, which is usually the cause. After an increase in medication, he was back home again—very tired and worn out from the medication and the hospital stay. With that all sorted, it was finally time to head to Germany.
 
