@@ -5,5 +5,5 @@ date: 2025-05-03 15:01:35 +0300
 author: kirsten_prest
 link: 'https://pilotfeasibilitystudies.biomedcentral.com/articles/10.1186/s40814-025-01619-3'
 image: '/images/publications/encompass-pilot.png'
-order: 1
+order: 2
 ---
