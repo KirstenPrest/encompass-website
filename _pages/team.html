@@ -43,31 +43,6 @@ image: '/images/logo.png'
           </div>
         </div>
         {% endfor %}
-      </div>
-    </div>
-  </div>
-</section>
-<!-- end researchers -->
-
-<!-- begin hero -->
-<section class="hero">
-  <div class="container">
-    <div class="row">
-      <div class="col col-12">
-        <div class="hero__inner">
-          <h1 class="hero__title">Advisory Team</h1>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- end hero -->
-
-<!-- begin advisors -->
-<section class="section authors animate">
-  <div class="container">
-    <div class="section__inner">
-      <div class="row">
         {% assign sorted_advisors = site.advisors | sort: "order" %}
         {% for advisor in sorted_advisors %}
         <div class="col col-4 col-w-6 col-t-12">
@@ -85,4 +60,4 @@ image: '/images/logo.png'
     </div>
   </div>
 </section>
-<!-- end advisors -->
+<!-- end researchers -->
