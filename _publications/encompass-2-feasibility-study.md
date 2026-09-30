@@ -4,6 +4,6 @@ title: Feasibility of an Adapted Participatory Group Programme for Caregivers of
 date: 2026-07-12 10:01:35 +0300
 author: kirsten_prest
 link: 'https://onlinelibrary.wiley.com/doi/10.1111/hex.70767'
-image: '/images/publications/Encompass2feasibility.png'
+image: '/images/publications/feasibilitystudy.png'
 order: 1
 ---
