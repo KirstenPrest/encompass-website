@@ -4,6 +4,6 @@ title: Adapting a Participatory Group Programme for Caregivers of Children with 
 date: 2025-07-22 15:01:35 +0300
 author: kirsten_prest
 link: https://www.mdpi.com/1660-4601/22/7/1144
-image: '/images/publications/encompass-logic-model.png'
+image: '/images/publications/adaptationstudy.png'
 order: 2
 ---
